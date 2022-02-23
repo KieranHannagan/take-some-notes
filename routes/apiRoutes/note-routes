@@ -1,0 +1,16 @@
+const { get } = require('express/lib/response');
+
+const router = require('express').Router();
+ 
+
+//Get all notes 
+router.get('/api/notes', (req, res) =>{
+    let results = notes;
+    
+})
+
+
+
+
+
+module.exports = router;
