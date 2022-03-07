@@ -15,7 +15,8 @@
   To install, simply clone the repository into your bash or shell, and run an `npm i` to download the required dependencies. You will then be ready to use the note taker!
   
   ## Usage 
-  To start the application, run `npm start` in your command-line. It will then start a server locally. If this is successful, it will say "Server now running on your port!".
+  To start the application, run `npm start` in your command-line. It will then start a server locally. If this is successful, it will say 
+                    Server now running on your port!
   ![success](./public/img/success.png)
   
   After your servers up and running, you can navigate to your localhost: in the browser, it will tell you which port it is running on in the console. You will then be greeted with the landing page. Go ahead and press `Get Started`.
